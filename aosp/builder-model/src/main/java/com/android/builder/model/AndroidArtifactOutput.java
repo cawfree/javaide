@@ -17,7 +17,7 @@
 package com.android.builder.model;
 
 import com.android.annotations.NonNull;
-import com.android.build.VariantOutput;
+import com.android.builder.VariantOutput;
 
 import java.io.File;
 
